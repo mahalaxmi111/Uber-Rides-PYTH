@@ -1,4 +1,6 @@
 # Uber Rides Data Analysis
+![0_ZjoDDf73ZgWD_mhQ](https://github.com/user-attachments/assets/5cd138ce-eb94-47d2-920c-dab23afc92e8)
+
 
 This project analyzes Uber Rides data to uncover key insights about ride purposes, peak hours, distance preferences, and seasonal trends. The analysis leverages Python and popular libraries such as Pandas, Numpy, Matplotlib, and Seaborn.
 
